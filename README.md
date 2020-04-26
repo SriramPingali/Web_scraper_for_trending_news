@@ -1,0 +1,2 @@
+# Web_scraper_for_trending_news
+Times of India is a popular news paper and is a third largest news paper in circuation within India. They also maintain a website which is a great source for news articles and blogs. This website has seperate sections for most popular, shared, read and trending news which can be used as a good source to find viral news. This web scraper scraped all the anchor links and texts in such articles.
